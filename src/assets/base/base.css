@@ -1,0 +1,83 @@
+@charset "UTF-8";
+*{
+   font-family: 'Microsoft YaHei';
+ }
+/*初始化CSS样式*/
+body, h1, h2, h3, h4, h5, h6, hr, p, blockquote, dl, dt, dd, ul, ol, li, pre, form, fieldset, legend, button, input,
+textarea, th, td {
+  margin: 0;
+  padding: 0; }
+
+body, button, input, select, textarea {
+  font: 12px/1.5 tahoma, arial, \5b8b\4f53; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-size: 100%; }
+
+address, cite, dfn, em, var {
+  font-style: normal; }
+
+code, kbd, pre, samp {
+  font-family: couriernew, courier, monospace; }
+
+small {
+  font-size: 12px; }
+
+ul, ol {
+  list-style: none; }
+
+a {
+  text-decoration: none; }
+
+a:hover {
+  text-decoration: underline; }
+
+sup {
+  vertical-align: text-top; }
+
+sub {
+  vertical-align: text-bottom; }
+
+legend {
+  color: #000; }
+
+fieldset, img {
+  border: 0; }
+
+button, input, select, textarea {
+  font-size: 100%; }
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+i {
+  font-style: normal; }
+
+
+@font-face
+{
+  font-family: FuturaLTBoldOblique;
+  src: url('http://p9h0g6n0z.bkt.clouddn.com/FuturaLTBoldOblique.woff2')
+}
+
+@font-face
+{
+  font-family: FuturaLTBold;
+  src: url('http://p9h0g6n0z.bkt.clouddn.com/FuturaLTBold_0.woff2')
+}
+
+@font-face
+{
+  font-family: FuturaLTBook;
+  src: url('http://p9h0g6n0z.bkt.clouddn.com/FuturaLTBook.woff2')
+}
+
+@font-face
+{
+  font-family: FuturaLTBookOblique;
+  src: url('http://p9h0g6n0z.bkt.clouddn.com/FuturaLTBookOblique.woff2')
+}
+
+/*# sourceMappingURL=base.css.map */
+
