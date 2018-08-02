@@ -6,6 +6,8 @@
 锚点导航
 版本兼容 ie9++
 
+展示地址 https://ityadong.github.io/staticDemo/VueAnchor/index.html
+
 ``` bash
 # install dependencies
 npm install
